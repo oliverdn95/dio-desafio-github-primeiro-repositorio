@@ -5,3 +5,7 @@ Introdução ao Desenvolvimento Moderno de Software - 26/10/22
 Introdução à Programação e Pensamento Computacional - 31/10/22
 Introdução ao Git e ao GitHub - 01/11/22
 Como Entregar seu Desafio de Projeto - 01/11/22
+Primeiros Passos Com JavaScript - 07/11/22
+Conhecendo Funções JavaScript - 07/11/22
+Criando Objetos e Classe em JavaScript - 08/11/22
+Arrays e Estruturas de Repetição em JavaScript - 10/11/22
